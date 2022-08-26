@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<forms-definition product-version="5.4">
+  <process name="Determina" version="1.0">
+    <process-label>Determina</process-label>
+    <process-template>html/Determina_process_template.html</process-template>
+    <mandatory-symbol>*</mandatory-symbol>
+    <mandatory-label>mandatory</mandatory-label>
+    <activities>
+      <activity name="Redazione"/>
+      <activity name="Start"/>
+      <activity name="VidimaFunzionario"/>
+      <activity name="VidimaDirettore"/>
+      <activity name="Firma"/>
+      <activity name="End"/>
+      <activity name="ConversionePDF"/>
+      <activity name="Message1"/>
+    </activities>
+  </process>
+</forms-definition>

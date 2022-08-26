@@ -1,0 +1,12 @@
+syntax: glob
+Determina--1.1.bar
+ProtocolloUscita.bar
+SchemaBonM.pdf
+.cvsignore
+bonita-environment.xml
+build.xml
+jaas-tomcat.cfg
+manifest.mf
+nbproject/
+build/
+dist/

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<forms-definition product-version="5.4">
+  <process name="RicettoreMessaggio" version="1.0">
+    <process-label>RicettoreMessaggio</process-label>
+    <mandatory-symbol>*</mandatory-symbol>
+    <mandatory-label>mandatory</mandatory-label>
+    <activities>
+      <activity name="End"/>
+      <activity name="reception"/>
+      <activity name="UpdateVirtualDesk"/>
+    </activities>
+  </process>
+</forms-definition>
